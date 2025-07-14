@@ -19,9 +19,4 @@ tags:
 > - Our method significantly improves over existing techniques for quantifying global token attributions.
 > - We qualitatively demonstrate that the attributions obtained by our method are plausibly interpretable. \\
 <br>
-<a class="blue-button read-more-button" href="/posts/GlobEnc/#read-more">read more</a>
 <a class="blue-button read-paper-button" href="https://aclanthology.org/2022.naacl-main.19/">read paper</a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jgd9kUJlug4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-Want to know more?   <a class="read-paper-button" href="https://aclanthology.org/2022.naacl-main.19/">read paper</a>
