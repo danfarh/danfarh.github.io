@@ -1,6 +1,6 @@
 ---
 title: 'Chatbot'
-date: 2021-09-18
+date: 2023-03-01
 permalink: /projects/chatbot/
 tags:
   - Natural Language Processing
@@ -12,7 +12,6 @@ tags:
 
 Chatbot
 ======
-Developed a chatbot using LLMs and the Retrieval-Augmented Generation (RAG) approach, involving fine-tuning
-Llama3-8B and implementing an efficient RAG-based architecture for enhanced conversational performance.
+Developed a chatbot using LLMs and the Retrieval-Augmented Generation (RAG) approach, involving fine-tuning Llama3-8B and implementing an efficient RAG-based architecture for enhanced conversational performance.
 <br><br>
 <a class="blue-button read-paper-button" href="https://github.com/danfarh/generative-chatbot">Project Link</a>
