@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 Here is my [Curriculum Vitae](/files/DaniyalFarhangi-CV.pdf){:target="_blank"}.
-<embed src="/files/DaniyalFarhangi-CV.pdf" width="100%" height="100%" type="application/pdf">
+<embed src="files/DaniyalFarhangi-CV.pdf" width="100%" height="100%" type="application/pdf">

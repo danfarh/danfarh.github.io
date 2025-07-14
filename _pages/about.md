@@ -15,7 +15,7 @@ Hi! I am a computer engineering B.Sc student at the <b>[University of Tehran](ht
 My primary research interest lies in the area of <b>Natural Language Processing</b> (NLP), where I have done research on quantifying token attribution in Transformers [(ACL2023, ](https://aclanthology.org/2023.acl-long.149/)[NAACL2022)](https://aclanthology.org/2022.naacl-main.19), Metaphors in pre-trained language models [(ACL2022)](https://aclanthology.org/2022.acl-long.144/), layer-wise probing BERToids [(BlackboxNLP@EMNLP2021)](https://aclanthology.org/2021.blackboxnlp-1.29), and finding important examples by gradient-based dataset pruning [(ENLSP@NeurIPS2022)](https://arxiv.org/abs/2211.05610).
 <!-- My B.Sc. final project was about assessing toxic detection knowledge of foundation models where I showed their interesting ability gained in pre-training as well as possible biases towards specific persons or groups. -->
 
-Feel free to [email](mailto:mohsenfayyaz@cs.ucla.edu) me or check my [Curriculum Vitae](/files/MohsenFayyaz_CV.pdf){:target="_blank"}.
+Feel free to [email](mailto:dan.farhangi@ut.ac.ir) me or check my [Curriculum Vitae](/files/DaniyalFarhangi-CV.pdf){:target="_blank"}.
 
 News
 ======
