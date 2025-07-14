@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <!-- ################# -->
-<h2>[Chatbot](https://github.com/danfarh/generative-chatbot)</h2> 
+<b>[Chatbot](https://github.com/danfarh/generative-chatbot)</b> 
 <br>
-Developed a chatbot using LLMs and the Retrieval-Augmented Generation (RAG) approach, involving fine-tuning Llama3-8B and implementing an efficient RAG-based architecture for enhanced conversational performance. 
+- Developed a chatbot using LLMs and the Retrieval-Augmented Generation (RAG) approach, involving fine-tuning Llama3-8B and implementing an efficient RAG-based architecture for enhanced conversational performance. 
 <br>
 [[💻 project link]](https://github.com/danfarh/generative-chatbot)
 <hr>
@@ -18,7 +18,7 @@ Developed a chatbot using LLMs and the Retrieval-Augmented Generation (RAG) appr
 <!-- ################# -->
 <b>[Text Summarization](https://github.com/danfarh/text-summarization)</b> 
 <br>
-An abstractive Text Summarization fine-tuning on the T5 transformer model on the xsum dataset.
+- An abstractive Text Summarization fine-tuning on the T5 transformer model on the xsum dataset.
 <br>
 [[💻 project link]](https://github.com/danfarh/text-summarization)
 <hr>
@@ -28,7 +28,7 @@ An abstractive Text Summarization fine-tuning on the T5 transformer model on the
 <!-- ################# -->
 <b>[Object Detection](https://github.com/danfarh/object-detection)</b> 
 <br>
-Designed and implemented an object detection system leveraging YOLOv5 and Detection Transformer (DETR) algorithms.
+- Designed and implemented an object detection system leveraging YOLOv5 and Detection Transformer (DETR) algorithms.
 <br>
 [[💻 project link]](https://github.com/danfarh/object-detection)
 <hr>
@@ -38,7 +38,7 @@ Designed and implemented an object detection system leveraging YOLOv5 and Detect
 <!-- ################# -->
 <b>[Search Engine](https://github.com/danfarh/search-engine)</b> 
 <br>
-Worked on search engines using Elasticsearch and BERT. This research project involves scraping product information, building a search engine with Elasticsearch, building a search engine with BERT algorithm, and evaluating and comparing these two search engines’ results.
+- Worked on search engines using Elasticsearch and BERT. This research project involves scraping product information, building a search engine with Elasticsearch, building a search engine with BERT algorithm, and evaluating and comparing these two search engines’ results.
 <br>
 [[💻 project link]](https://github.com/danfarh/search-engine)
 <hr>
@@ -48,7 +48,7 @@ Worked on search engines using Elasticsearch and BERT. This research project inv
 <!-- ################# -->
 <b>[Sentiment Analysis](https://github.com/danfarh/amazon-sentiment-analysis)</b> 
 <br>
-A sentiment analysis system that can classify the sentiment of customer comments as positive, negative, or neutral. The project involves scraping Amazon product reviews, building sentiment analysis systems with lots of algorithms such as NB, SVM, LR, CNN, LSTM, CNN-LSTM, and BERT, and computing their accuracy.
+- A sentiment analysis system that can classify the sentiment of customer comments as positive, negative, or neutral. The project involves scraping Amazon product reviews, building sentiment analysis systems with lots of algorithms such as NB, SVM, LR, CNN, LSTM, CNN-LSTM, and BERT, and computing their accuracy.
 <br>
 [[💻 project link]](https://github.com/danfarh/amazon-sentiment-analysis)
 <hr>
@@ -58,7 +58,7 @@ A sentiment analysis system that can classify the sentiment of customer comments
 <!-- ################# -->
 <b>[News Text Classification](https://github.com/danfarh/news-classification)</b> 
 <br>
-A Persian news text classification using the BiLSTM algorithm on the Hamshahri-News dataset.
+- A Persian news text classification using the BiLSTM algorithm on the Hamshahri-News dataset.
 <br>
 [[💻 project link]](https://github.com/danfarh/news-classification)
 <hr>
@@ -68,7 +68,7 @@ A Persian news text classification using the BiLSTM algorithm on the Hamshahri-N
 <!-- ################# -->
 <b>[Finding Lane Lines on the Road](https://github.com/danfarh/Finding-Lane-Lines-on-the-Road)</b> 
 <br>
-A Python implementation for lane detection using the OpenCV library. It uses the Hough Transform algorithm to detect lines in video frames and draw the final lane lines on the original frames.
+- A Python implementation for lane detection using the OpenCV library. It uses the Hough Transform algorithm to detect lines in video frames and draw the final lane lines on the original frames.
 <br>
 [[💻 project link]](https://github.com/danfarh/Finding-Lane-Lines-on-the-Road)
 <hr>
