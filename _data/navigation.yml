@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Selected Projects"
+    url: /projects/
+    
   - title: "Publications"
     url: /publications/
 
@@ -11,9 +14,6 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /blog/
     
   - title: "CV"
     url: /cv/
